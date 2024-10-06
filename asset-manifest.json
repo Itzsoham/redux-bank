@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reduz-bank/static/css/main.93d35bc3.css",
+    "main.js": "/reduz-bank/static/js/main.70cec367.js",
+    "index.html": "/reduz-bank/index.html",
+    "main.93d35bc3.css.map": "/reduz-bank/static/css/main.93d35bc3.css.map",
+    "main.70cec367.js.map": "/reduz-bank/static/js/main.70cec367.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93d35bc3.css",
+    "static/js/main.70cec367.js"
+  ]
+}
